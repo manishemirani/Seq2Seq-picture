@@ -155,3 +155,4 @@ for data in test_format:
     i += 1
     if i == num_sample:
         break
+# model.save("./models/sum.h5")
