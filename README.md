@@ -11,7 +11,7 @@ We've got label 7 or 8(in other examples) of the plus sign, because I didn't tra
 
 To run the code you should do:
           
-         python main.py -i [IMAGE PATH] (in this case is ./images/[IMAGE NAME.JPG])
+         python main.py -i [IMAGE PATH] (in this case is ./images/[IMAGENAME.JPG])
 
 Result will be:
 
