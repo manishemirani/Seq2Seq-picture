@@ -39,4 +39,4 @@ model.fit(
 )
 
 model.evaluate(x_test, y_test)
-model.save("./detect.h5")
+model.save("./models/detect.h5")
