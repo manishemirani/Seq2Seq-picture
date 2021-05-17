@@ -56,7 +56,7 @@ for (pred, (x, y, w, h)) in zip(preds, boxes):
     prob = pred[i]
     label = labelNames[i]
     data.append(label)
-    # print("[INFO] {} - {:.2f}%".format(label, prob * 100))
+    print("[INFO] {} - {:.2f}%".format(label, prob * 100))
     # cv2.rectangle(image, (x, y), (x + w, y + h), (0, 255, 0), 2)
     # cv2.putText(image, label, (x - 10, y - 10),
     #             cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 255, 0), 2)
