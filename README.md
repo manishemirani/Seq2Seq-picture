@@ -5,7 +5,7 @@ This is an example of the seq2seq addition task on the LSTM model, that implemen
 
 ![alt text](https://raw.githubusercontent.com/manishemirani/Seq2Seq-picture/main/images/output.JPG)
 
-We've got label 7 or 8(in other examples) of the plus sign because I didn't train plus on the model, but I fixed it with a simple math trick
+We've got label 7 or 8(in other examples) of the plus sign because I didn't train plus sign on the model, but I fixed it with a simple math trick
 
 ## Run
 
