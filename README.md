@@ -9,7 +9,7 @@ We've got label 7 or 8(in other examples) of the plus sign because I didn't trai
 
 ## Run
 
-To run the code you should do:
+Run:
           
          python main.py -i [IMAGE PATH] (in this case is ./images/[IMAGENAME.JPG])
 
