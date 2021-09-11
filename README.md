@@ -13,7 +13,7 @@ Run:
           
          python main.py -i [IMAGE PATH] (in this case is ./images/[IMAGENAME.JPG])
 
-Result will be:
+Result would be:
 
     [INFO] 4 - 91.32%
     [INFO] 8 - 96.93%
